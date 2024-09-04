@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "names": "wung",
+      "number": "676575033",
+      "email": "wung@gmail.com",
+      "location": "douala"
+    },
+    {
+      "id": "11",
+      "names": "enow",
+      "email": "laah@gmail.com",
+      "number": "655544477",
+      "location": "limbe"
+    }
+  ]
+}
